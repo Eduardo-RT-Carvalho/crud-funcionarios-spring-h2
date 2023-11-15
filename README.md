@@ -47,7 +47,9 @@ yaml:
 - Clique no botão "Connect".
 
 Isso permitirá que você acesse o console do H2 e visualize o estado atual do banco de dados, além de executar consultas SQL interativamente.
-Endpoints
+
+## Endpoints
+
 1. Salvar Funcionário
 
     Endpoint: POST /funcionario
